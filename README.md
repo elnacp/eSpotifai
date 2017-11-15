@@ -4,8 +4,8 @@
 <ul>
   <li><b>Elna Cabot</b>: Responsable de presentación y multimedia.</li>
   <li><b>Miguel Díaz</b>: Project Manager.</li>
-  <li><b>Marc Millán</b>: Responsable de documentaciíon escrita.</li>
-  <li><b>Alejandro Vogel</b>: Responsable de programa y versionamiento.</li>
+  <li><b>Marc Millán</b>: Responsable de programa y versionamiento.</li>
+  <li><b>Alejandro Vogel</b>:  Responsable de documentaciíon escrita.</li>
   <li><b>Marta Zapatero</b>: Responsable de seguimiento del proyecto.</li>
 </ul>
 
