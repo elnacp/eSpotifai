@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\Miguel¡ngel\Documents\GitHub\eSpotifai\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+3232870235.index
+363738115.index
+3244704807.index
+3157295846.index
